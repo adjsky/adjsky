@@ -1,4 +1,4 @@
-## <img src="/wave-hand.gif" width="40px" alt=""/> Hi there
+## <img src="/wave.gif" width="40px" alt=""/> Hi there
 
 My name is Kirill and I am a fullstack developer with focus on backend. Currently i am living in :scream_cat:Saint-Petersburg and studying at university.
 
