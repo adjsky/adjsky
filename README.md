@@ -2,7 +2,7 @@
 
 My name is Kirill and I am a fullstack developer with focus on backend. Currently i am living in :scream_cat:Saint-Petersburg and studying at university.
 
-## :monocle_face: Tech & Tools
+### :monocle_face: Tech & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-468EE3?logo=javascript&style=for-the-badge&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/Golang-468EE3?logo=go&style=for-the-badge&logoColor=ffffff)
@@ -20,4 +20,4 @@ My name is Kirill and I am a fullstack developer with focus on backend. Currentl
 
 ---
 
-## :yellow_heart:
+### :yellow_heart:
