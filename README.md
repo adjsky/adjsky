@@ -5,6 +5,7 @@ My name is Kirill and I am a fullstack developer with focus on backend. Currentl
 ### :monocle_face: Tech & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-468EE3?logo=javascript&style=for-the-badge&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-468EE3?logo=typescript&style=for-the-badge&logoColor=ffffff)
 ![Golang](https://img.shields.io/badge/Golang-468EE3?logo=go&style=for-the-badge&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-468EE3?logo=python&style=for-the-badge&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/Bash-468EE3?logo=GNU%20Bash&style=for-the-badge&logoColor=ffffff)
