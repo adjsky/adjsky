@@ -1,6 +1,6 @@
 ## <img src="/wave.gif" width="40px" alt=""/> Hi there
 
-My name is Kirill and I am a fullstack web developer with focus on backend. Currently I am living in :scream_cat:Saint-Petersburg and studying at university.
+My name is Kirill and I am a fullstack web developer with focus on frontend. Currently I am living in :scream_cat:Saint-Petersburg and studying at university.
 
 ### :monocle_face: Tech & Tools
 
